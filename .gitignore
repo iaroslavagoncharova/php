@@ -132,3 +132,6 @@ Temporary Items
 .apdisk
 
 database/dbconfig.php
+
+#uploads
+../php/week2/database/uploads/
